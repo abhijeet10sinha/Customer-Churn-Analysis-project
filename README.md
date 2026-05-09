@@ -80,6 +80,16 @@ The project includes:
 - Correlation Heatmap
 
 
+## Project Report
+
+A detailed business analysis report is included in the `reports` folder covering:
+- Executive Summary
+- Churn Drivers
+- Revenue Impact
+- Customer Segmentation
+- Business Recommendations
+
+
 ## Future Improvements
 
 - Build interactive Power BI dashboard
